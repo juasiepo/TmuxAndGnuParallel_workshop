@@ -87,21 +87,7 @@ Don't forget to export SHELL=cmd.exe otherwise not -j nor multiprocess support w
 export SHELL=cmd.exe
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
 Files:
 ---------
 
 * **Slides/PentahoWorkshopPresentation.odp** LibreOffice impress presentation
-
-* **diputados.json** test data from http://api.quehacenlosdiputados.net/iniciativas
