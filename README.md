@@ -31,8 +31,8 @@ port install tmux (Mac Ports)
 
 Download Cygwin depending your OS architecture:
 
-* [https://cygwin.com/setup-x86.exe] *(32 bits version)*
-* [https://cygwin.com/setup-x86_64.exe] *(64 bits version)*
+* [32 bits version](https://cygwin.com/setup-x86.exe)
+* [64 bits version](https://cygwin.com/setup-x86_64.exe)
 
 Install Cygwin launching the installation program from a MS-DOS shell: **setup-x86.exe -B**
 
