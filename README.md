@@ -39,9 +39,9 @@ Install Cygwin launching the installation program from a MS-DOS shell: **setup-x
 ```msdos
 setup-x86.exe -B
 ```
+Using the *-B* allows the installation without administrator rights :)
 
 Then install the tmux package using **Cygwin's GUI**
-
 
 ## GNU Parallel Installation:
 
@@ -72,6 +72,8 @@ Install Cygwin launching the installation program from a MS-DOS shell:
 ```msdos
 setup-x86.exe -B
 ```
+Using the *-B* allows the installation without administrator rights :)
+
 
 Then install the wget or curl package using **Cygwin's GUI**
 
