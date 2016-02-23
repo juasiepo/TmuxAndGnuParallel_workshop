@@ -92,7 +92,7 @@ export SHELL=cmd.exe
 Files:
 ---------
 
-* **Slides/PentahoWorkshopPresentation.odp** LibreOffice impress presentation
+* **Slides/TmuxAndGnuParallelPresentation.odp** LibreOffice impress presentation
 
 ## TMUX Cheat sheets
 * [Mohamed A. Hassan's tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) 
