@@ -93,3 +93,8 @@ Files:
 ---------
 
 * **Slides/PentahoWorkshopPresentation.odp** LibreOffice impress presentation
+
+## TMUX Cheat sheets
+* [Mohamed A. Hassan's tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) 
+* [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
+* [tmux the terminal multiplexer Cheat Sheet by bechtold](http://www.cheatography.com/bechtold/cheat-sheets/tmux-the-terminal-multiplexer/)
