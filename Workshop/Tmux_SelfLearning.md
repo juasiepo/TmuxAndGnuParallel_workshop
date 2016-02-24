@@ -102,7 +102,7 @@ Will show all the windows from the current tmux session. To select a window just
 ### Remove windows
 Enter in the desired window and type
 
-**Ctrl+d d**
+**Ctrl+b d**
 
 Or
 
