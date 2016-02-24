@@ -90,7 +90,7 @@ This can be achieved selecting the desired window from a list or using a key com
 
 #### list windows
 
-**Crtl+b "**
+**Crtl+b w**
 
 Will show all the windows from the current tmux session. To select a window just press the number or letter located near to the window's name
 
