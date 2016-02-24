@@ -117,7 +117,7 @@ Or
 **exit**
 
 ## Synchronize panes
-Very useful to launch the same command to several panes and/ir ssh session. **First of all ensure that in the current windows there are two or more panes.**
+Very useful to launch the same command to several panes and/or ssh session. **First of all ensure that in the current window there are two or more panes.**
 
 To enable the pane synchronization is necessary to use the "command" mode (similar to VI). To do this
 
