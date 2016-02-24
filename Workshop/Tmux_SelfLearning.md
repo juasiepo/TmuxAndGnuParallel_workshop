@@ -92,11 +92,19 @@ This can be achieved selecting the desired window from a list or using a key com
 
 **Crtl+b w**
 
-Will show all the windows from the current tmux session. To select a window just press the number or letter located near to the window's name
+Will show all the windows from the current tmux session.
+
+Press **q** to exit from the windows list
+
+
+**q**
+
 
 #### Move between windows using a key combination
+To select a window just press the number or letter located near to the window's name
 
-**Ctrl+b _NameOrLetter_**
+
+**Ctrl+b w _NameOrLetter_**
 
 
 ### Remove windows
