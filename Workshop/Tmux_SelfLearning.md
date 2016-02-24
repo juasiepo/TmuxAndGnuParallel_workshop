@@ -144,7 +144,7 @@ Then write:
 
 
 ## Practice by yourself
-For several minutes and get used to the new environment
+For several minutes prectice by yourself and get used to the new environment
 
 
 
