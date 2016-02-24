@@ -134,7 +134,7 @@ Then write:
 At this moment all the command typed will be sent to all the panes on the current window. To disable the pane synchronization send the same command (togle on/off)
 
 
-**Ctrl+d :**
+**Ctrl+b :**
 
 
 Then write:
