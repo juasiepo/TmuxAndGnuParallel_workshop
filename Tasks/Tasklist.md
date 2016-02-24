@@ -4,7 +4,9 @@
 1. Create 2 servers on distants CPD
 2. Create user **usuario** for tests
 3. Configure the DNS name resolution
-3. Install the following  tools:
+4. Create the ssh keys for passwordless login
+5. Create the server.list including both servers
+4. Install the following  tools:
 
 **apt-get tmux wget git htop parallel vim lighttpd iotop iftop**
 
