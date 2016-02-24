@@ -62,8 +62,6 @@ This can be achieved using the cursor keys
 **Ctrl+b Alt+_CURSOR_KEY_**
 
 
-## Working with windows
-
 ### Remove panes
 
 
@@ -73,6 +71,8 @@ Or
 
 **exit**
 
+
+## Working with windows
 
 ### Create window
 
