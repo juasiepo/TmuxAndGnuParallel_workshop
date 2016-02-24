@@ -53,18 +53,21 @@ The **htop** should be running
 This can be achieved using the cursor keys
 
 
-**Ctrl+d _CURSOR_KEY_**
+**Ctrl+b _CURSOR_KEY_**
 
 
 ### Remove panes
 
 
-**Ctrl+d d**
+**Ctrl+b d**
 
 Or
 
 **exit**
 
+### Resize panes
+
+**Ctrl+b d**
 
 ## Working with windows
 
