@@ -98,7 +98,7 @@ Files:
 * **Tasks/Tasklist.md** Task to be done before the workshop (for the speaker only)
 * **Workshop/GNUParallel.md** Tasks for the GNU parallel part
 * **Workshop/Tmux_PairUsage.md** Tasks for the pair (programming, monitoring, etc) part 
-* **Workshop/Tmux_SelfLearning.md** Tesks for self practice
+* **Workshop/Tmux_SelfLearning.md** Tasks for self practice
 
 ## TMUX Cheat sheets
 * [Mohamed A. Hassan's tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) 
