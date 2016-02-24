@@ -96,7 +96,7 @@ Will show all the windows from the current tmux session. To select a window just
 
 #### Move between windows using a key combination
 
-**Ctrl+d _NameOrLetter_**
+**Ctrl+b _NameOrLetter_**
 
 
 ### Remove windows
